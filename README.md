@@ -23,13 +23,13 @@ Here are some examples of how to use the CLI tool:
 
 ## Links
 
-``https://monosnap.com/file/bwB6lYuRiCOsld6hEadNnwBZRDbXW1```
+https://monosnap.com/file/bwB6lYuRiCOsld6hEadNnwBZRDbXW1
 
-``https://monosnap.com/file/RFHy43bMw0bodzcikIcqLrlWze5Y7Q```
+https://monosnap.com/file/RFHy43bMw0bodzcikIcqLrlWze5Y7Q
 
-``https://monosnap.com/file/JWdQqSIyoq5K1zCjFYWpKQKhvEN1xz```
+https://monosnap.com/file/JWdQqSIyoq5K1zCjFYWpKQKhvEN1xz
 
-``https://monosnap.com/file/JWdQqSIyoq5K1zCjFYWpKQKhvEN1xz```
+https://monosnap.com/file/JWdQqSIyoq5K1zCjFYWpKQKhvEN1xz
 
 ## Contributing
 
